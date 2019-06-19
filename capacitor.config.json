@@ -1,0 +1,8 @@
+{
+  "appId": "com.udc.ionicangular",
+  "appName": "ionic-angular-udc",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "linuxAndroidStudioPath": "/snap/android-studio/76/android-studio/bin/studio.sh"
+}
